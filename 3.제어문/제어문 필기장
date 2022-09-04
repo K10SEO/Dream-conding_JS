@@ -1,0 +1,6 @@
+제어문 (Control flow statement) - 코드의 흐름을 제어문
+1. 조건문 (Conditional statement)
+ - if, switch : 특정한 조건일때만 코드가 실행되게 한다
+
+2. 반복문 (Loop statement)
+ - for while, do-whtile : 반복적으로 동일한 코드를 실행되게 한다
