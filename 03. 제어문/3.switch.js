@@ -4,7 +4,7 @@
 // 정해진 범위안의 값에 대해 특정한 일을 해야 하는 경우에 switch를 쓴다
 let day = 2; // 0:월요일, 1:화요일...6:일요일
 let dayName;
-if (day === 0) {
+if (day === 0) {.
     dayName = '월요일';
 } else if (day === 1) {
     dayName = '화요일'
