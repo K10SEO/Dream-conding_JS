@@ -48,4 +48,4 @@ const printArrow = () => {
 printArrow();
 cat.printArrow = printArrow;
 cat.printArrow();
-.
+
